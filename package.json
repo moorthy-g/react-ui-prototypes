@@ -1,11 +1,14 @@
 {
-  "name": "sample-ui",
+  "name": "react-ui-prototypes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "@moorthy-g/react-scripts": "1.0.2",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-router-dom": "^4.3.1",
+    "typeface-roboto": "^0.0.54"
   },
   "scripts": {
     "start": "react-scripts start",
